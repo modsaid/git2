@@ -3,6 +3,8 @@ git-demo
 
 Used in walk through session for git
 
+Test commit data
+
 
 clone me via
 
